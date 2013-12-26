@@ -1,0 +1,4 @@
+include setup.cfg
+include README.rst
+
+recursive-exclude docs *.pyc *.pyo .DS_Store
